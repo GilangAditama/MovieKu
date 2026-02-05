@@ -1,0 +1,143 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 23209,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 10,
+        "internalName": "Animasu",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/B.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 32153,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 48,
+        "internalName": "AnixverseProvider",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/AnixverseProvider.cs3",
+        "name": "AnixverseProvider"
+     },
+    {
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/balad.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20397,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Baladfilm",
+        "description": "Include: Zonafilm",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Baladfilm.cs3",
+        "name": "Baladfilm"
+    },
+    {           
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/D1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14335,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Donghuafilm",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Donghuafilm.cs3",
+        "name": "Donghuafilm"
+    },
+    {
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/A1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 27911,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 45,
+        "internalName": "Donghuaid",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Donghuaid.cs3",
+        "name": "Donghuaid"
+    },
+    {
+         "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/O.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 43823,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "MovieBox",
+        "description": "MovieBox Adalah layanan yang menyediakan akses ke film dan acara TV secara gratis.",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/MoviesBox.cs3",
+        "name": "MovieBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 22306,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 12,
+        "internalName": "Nimegami",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/NimegamiProvider.cs3",
+        "name": "Nimegami"
+    }
+]
