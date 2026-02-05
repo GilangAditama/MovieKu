@@ -1,0 +1,8 @@
+{
+    "name": "Streamku",
+    "description": "Cloudstream extensions collection",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/plugins.json"
+    ]
+}
