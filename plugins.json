@@ -101,6 +101,48 @@
         "name": "Donghuaid"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kissasian.cam&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 32734,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Kissasian",
+        "description": "Kissasian",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Kissasian.cs3",
+        "name": "Kissasian"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv11.melongmovies.com&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 25159,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "Melongmovie",
+        "description": "Melongmovie",
+        "url": "https://raw.githubusercontent.com/GilangAditama/MovieKu/main/Melongmovie.cs3",
+        "name": "Melongmovie"
+    },
+    {
          "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/O.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
